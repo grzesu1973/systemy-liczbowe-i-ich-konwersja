@@ -1,8 +1,10 @@
+---
 # Systemy liczbowe i ich konwersja
+---
+## Dwójkowy system liczbowy ***(binarny)***
 
-## Dwójkowy system liczbowy ``***(binarny)***``
-
-Do zapisu liczb w tym systemie wykorzystuje się zaledwie 2 cyfry: 0 i 1.  Podstawą pozycji zaś są kolejne potęgi liczby 2. 
+Do zapisu liczb w tym systemie wykorzystuje się zaledwie 2 cyfry: 0 i 1.  
+Podstawą pozycji zaś są kolejne potęgi liczby 2. 
 W praktyce wygląda to tak :
     Jak w każdym systemie pozycyjnym o wartości cyfry stanowi pozycja na której ona stoi więc cyfrę stojącą na pierwszej pozycji  mnożymy  razy 2^0^ , a cyfrę na 2 pozycji  mnożymy razy 2^1^
 
