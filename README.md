@@ -42,7 +42,7 @@ Jak w każdym systemie pozycyjnym o wartości cyfry stanowi pozycja na której o
 Tak wiec liczba 174 w systemie ósemkowym jest równa liczbie 124 w systemie dziesiętnym.
 Liczby można również zamieniać w odwrotny sposób czyli z systemu dziesiętnego na ósemkowy. Aby to zrobić wystarczy dzielić liczbę w systemie dziesiętnym przez 8 tak długo aż zostanie nam liczba mniejsza niż 8 (tą liczbę też dzielimy tez dzielimy) i przy każdym dzieleniu zapisywać resztę z tego dzielenia ( 0, 1, 2, 3, 4, 5, 6 albo 7 ). Potem zapisujemy reszty w odwrotnej kolejności jako ciąg cyfr.
 
-Przykład:
+Przykład:  
 |167/8 = 20|r.7|  
 |----------|---|  
 |20/8 = 2|r.4|  
