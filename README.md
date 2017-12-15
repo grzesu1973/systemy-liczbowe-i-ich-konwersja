@@ -1,7 +1,7 @@
 # __Systemy liczbowe i ich konwersja__
 ***
-## Dwójkowy system liczbowy ***(binarny)***
-***
+## 1. Dwójkowy system liczbowy ***(binarny)***
+
 Do zapisu liczb w tym systemie wykorzystuje się zaledwie 2 cyfry: 0 i 1.  
 Podstawą pozycji zaś są kolejne potęgi liczby 2. 
 W praktyce wygląda to tak :
@@ -32,7 +32,7 @@ Przykład:
   
 
 
-## Ósemkowy system liczbowy 
+## 2. Ósemkowy system liczbowy 
 
 Do zapisu liczb w tym systemie wykorzystuje się  8 cyfr: 0, 1, 2, 3, 4, 5, 6, 7  
 Podstawą
